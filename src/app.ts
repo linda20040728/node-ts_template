@@ -37,10 +37,10 @@ const main = (): void => {
   console.log(`R4 : ${R4.toString()}`);
   console.log(`R5 : ${R5.toString()}`);
 
-
 };
 
 main();
+
 
 /* 
 result:
